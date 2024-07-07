@@ -1,4 +1,4 @@
-num = Math.floor(Math.random() * 1000) + 1;
+num = 5;
 console.log("num:",num)
 if(num % 3 == 0 && num % 5 == 0){
 console.log("3と5の倍数です")
