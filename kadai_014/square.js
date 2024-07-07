@@ -1,5 +1,5 @@
 const num = 10;
-Square = (num) => {
+const Square = (num) => {
     return　num*num;
 }
 console.log(Square(num))
